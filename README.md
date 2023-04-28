@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @outboundbird
-- 👀 I’m interested in statistics, machine learning, coding etc
-- 🌱 I’m currently learning writing efficient code
+- 👀 I’m interested in statistics, machine learning, coding, fiance, and truth of life, etc
+- 🌱 I’m currently learning writing efficient code, smart home automation, gardening, aikido...
 - 💞️ I’m looking to collaborate on any interesting topics 
 - 📫 How to reach me ...
 
